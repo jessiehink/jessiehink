@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jessiehink
+- 👀 I’m interested in everything tech
+- 🌱 I’m currently learning git-hub, python, linux, networking, html/css/js
+- 💞️ I’m looking to collaborate on ...
+- 📫 JessieHink@pm.me
